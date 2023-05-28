@@ -16,8 +16,10 @@ how to :ref:`installation` the project.
 
 
 Contents
---------
+========
 
 .. toctree::
+   :maxdepth: 2
 
-   getting-started
+   getting-started/index
+
