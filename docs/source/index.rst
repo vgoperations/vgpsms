@@ -1,4 +1,4 @@
-Welcome Voigo SMS Web Client Documentation
+Voigo SMS Web Client Documentation
 ===================================
 
 The Voigo SMS Web Client Documentation provides comprehensive guidance on using your custom-built SMS web client. Designed for our customers, the web client allows you to send and receive SMS and MMS messages conveniently. It supports the use of multiple SMS-enabled numbers, which can be shared among multiple users. Users can send messages with customized pre-pended content. Inbound messages can be automatically forwarded to other SMS numbers or email addresses. The system includes a customizable auto-reply system, enabling users to set up personalized automated responses. Moreover, all forwarding and auto-reply features can be scheduled according to individual preferences and requirements, allowing for a high degree of customization and automation.
