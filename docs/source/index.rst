@@ -11,7 +11,8 @@ Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
-The Voigo SMS Web Client is a paid service for our customers. If you do not yet have an account, please visit `Voigo's Website <https://www.voigotel.com>`__{target="_blank"}.
+The Voigo SMS Web Client is a paid service for our customers. If you do not yet have an account, please visit `Voigo's Website <https://www.voigotel.com>`__.
+
 
 
 
